@@ -1,4 +1,7 @@
-# test coverage for  [homebridge-netatmo (v0.2.0)](https://github.com/planetk/homebridge-netatmo#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-netatmo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-netatmo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-netatmo.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-netatmo)
+# npmtest-homebridge-netatmo
+
+#### test coverage for  [homebridge-netatmo (v0.2.0)](https://github.com/planetk/homebridge-netatmo#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-homebridge-netatmo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-homebridge-netatmo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-homebridge-netatmo.svg)](https://travis-ci.org/npmtest/node-npmtest-homebridge-netatmo)
+
 #### Netatmo plugin for homebridge: https://github.com/nfarina/homebridge
 
 [![NPM](https://nodei.co/npm/homebridge-netatmo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/homebridge-netatmo)
